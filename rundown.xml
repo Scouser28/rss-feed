@@ -1,1377 +1,856 @@
+
 <?xml version="1.0" encoding="utf-8"?>
-<feed
-  xmlns="http://www.w3.org/2005/Atom"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:g="http://schemas.google.com/pcn/2020"
->
-  <title>News</title>
-  <id>https://rss-dev.focus.de/sport/:related</id>
-  <updated>2023-11-30T16:08:17.000Z</updated>
-  <link rel="self" href="https://rss-dev.focus.de/sport/" />
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:g="http://schemas.google.com/pcn/2020">
+    <title>News</title>
+    <id>https://rss-dev.focus.de/sport/:related</id>
+    <updated>2024-02-23T08:19:06.000Z</updated>
+    <link rel="self" href="https://rss-dev.focus.de/sport/"/>
 
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Eintracht Frankfurt - PAOK Saloniki im Liveticker, Conference League: 1:2!
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255813759" />
-    <id
-      >https://www-dev.focus.de/sport/conference-league-gruppenphase-eintracht-frankfurt-gegen-paok-saloniki-im-liveticker_id_255813759.html</id
-    >
-    <published>2023-11-30T16:08:17.000Z</published>
-    <updated>2023-11-30T23:00:40.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255798829</id>
-        <title>
-          Handball-WM - Deutsche Frauen gewinnen in letzter Sekunde gegen Japan
-        </title>
-        <link href="https://www.focus.de/255798829" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Handball-WM der Frauen</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255904344/amelie-berger-l-und-torhueterin-katharina-filter-jubeln-nach-dem-sieg-gegen-japan.jpg?im=Crop%3D%280%2C0%2C3312%2C1870%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=01ecf7476098f1ac25c188f1834d711559ab7a9635964856c7c4bf0b50698b27"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255620829</id>
-        <title>
-          Freiburg in Europa League weiter, Gregoritsch zerlegt schwaches Piräus
-        </title>
-        <link href="https://www.focus.de/255620829" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255911851/freiburgs-michael-gregoritsch-jubelt-nach-seinem-hattrick.jpg?im=Crop%3D%280%2C224%2C3354%2C1895%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c567643c94c1a095ad307433750fc4b8cdee54da0307fb889f8903307724eb0e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255627330</id>
-        <title>
-          Europa League, BK Häcken - Bayer Leverkusen: Wurschtel-Sieg für
-          Leverkusen
-        </title>
-        <link href="https://www.focus.de/255627330" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255985273/leverkusens-spieler-jubeln-gegen-bk-haecken..jpg?im=Crop%3D%280%2C0%2C2403%2C1357%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=eb3be964959b347d824f7a72b41ac5117541eec951223c85dd9f972db70cff5e"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Europa League, BK Häcken - Bayer Leverkusen: Wurschtel-Sieg für Leverkusen
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255627330" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/europa-league/europa-league-gruppenphase-bk-haecken-gegen-bayer-leverkusen-im-liveticker_id_255627330.html</id
-    >
-    <published>2023-11-30T20:53:00.000Z</published>
-    <updated>2023-11-30T23:13:33.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255224128</id>
-        <title>
-          Champions-League-Konferenz: Union spielt bei Sporting Braga nur 1:1,
-          Real siegt
-        </title>
-        <link href="https://www.focus.de/255224128" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255316962/union-berlin-zu-gast-bei-sporting-braga.jpg?im=Crop%3D%280%2C44%2C3019%2C1705%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e9165925666cab65869263cfbb01477dece4db7d6a652a6de621e1189f36da18"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255620829</id>
-        <title>
-          Freiburg in Europa League weiter, Gregoritsch zerlegt schwaches Piräus
-        </title>
-        <link href="https://www.focus.de/255620829" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255911851/freiburgs-michael-gregoritsch-jubelt-nach-seinem-hattrick.jpg?im=Crop%3D%280%2C224%2C3354%2C1895%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c567643c94c1a095ad307433750fc4b8cdee54da0307fb889f8903307724eb0e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255174210</id>
-        <title>
-          Podcast: An Schumachers Unfallort stockt Journalist der Atem: „Mir ist
-          mulmig“
-        </title>
-        <link href="https://www.focus.de/255174210" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Podcast über Renn-Legende</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255233852/michael-schumacher.jpg?im=Crop%3D%280%2C120%2C2464%2C1392%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cb2a7070734b531787c4c1e8dee21b719c86e39db6e399221873e88dc1a47994"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Schiedsrichter unterbricht Spiel, weil Fans Torwart mit Schneebällen
-      bewerfen
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255947841" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/kuriosum-in-der-conference-league-schiedsrichter-unterbricht-spiel-weil-fans-torwart-mit-schneebaellen-bewerfen_id_255947841.html</id
-    >
-    <published>2023-11-30T21:13:32.000Z</published>
-    <updated>2023-11-30T21:14:26.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255809142</id>
-        <title>
-          „Unzumutbar“: Jetzt holt Faeser bittere Polizei-Realität bei
-          Grenzkontrollen ein
-        </title>
-        <link href="https://www.focus.de/255809142" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>„Unzumutbar, primitiv, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255825824/nancy-faeser-und-ein-polizist..jpg?im=Crop%3D%280%2C196%2C3030%2C1711%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c0541d55bf35c82d9525f8c29bd7dede441fcffdbcb32d192aea4df9d8b7d7d0"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255848426</id>
-        <title>
-          Pistorius verspricht Ukraine Milliardenhilfe - und der Bundestag weiß
-          von nichts
-        </title>
-        <link href="https://www.focus.de/255848426" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>„Das ist kein Pappenstiel!“</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_249862937/435603130.jpg?im=Crop%3D%280%2C218%2C3265%2C1844%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=a18b1dc34835be5874dfe2f94f7e84fa50f4b308f6003d8b360eeb276e9ed9fb"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255627330</id>
-        <title>
-          Europa League, BK Häcken - Bayer Leverkusen: Wurschtel-Sieg für
-          Leverkusen
-        </title>
-        <link href="https://www.focus.de/255627330" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255985273/leverkusens-spieler-jubeln-gegen-bk-haecken..jpg?im=Crop%3D%280%2C0%2C2403%2C1357%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=eb3be964959b347d824f7a72b41ac5117541eec951223c85dd9f972db70cff5e"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Freiburg in Europa League weiter, Gregoritsch zerlegt schwaches Piräus
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255620829" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/europa-league/europa-league-gruppenphase-sc-freiburg-gegen-olympiakos-piraeus-im-liveticker_id_255620829.html</id
-    >
-    <published>2023-11-30T18:46:00.000Z</published>
-    <updated>2023-11-30T21:49:59.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255188288</id>
-        <title>
-          Terroranschlag auf Weihnachtsmarkt geplant? Haftbefehl gegen
-          15-Jährigen
-        </title>
-        <link href="https://www.focus.de/255188288" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Auf Weihnachtsmarkt</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255196891/ein-weihnachtsmarkt-in-koeln-soll-ein-moegliches-terrorziel-der-beiden-jugendlichen-15-16-gewesen-sein.-.jpg?im=Crop%3D%280%2C109%2C3575%2C2019%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=16ed28d92ecb2e34f9372948a666a64c83c0229ae6b934c7d0857bdcefa88c8e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255368718</id>
-        <title>
-          Sieben Mal die Fünf für die Bayern-Stars - nur einer überzeugt
-          wirklich
-        </title>
-        <link href="https://www.focus.de/255368718" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Bayern-Spieler in der …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/sport/fussball/id_255368717/den-bayern-gelang-offensiv-gegen-kopenhagen-so-gut-wie-ueberhaupt-nichts..jpg?im=Crop%3D%280%2C0%2C812%2C458%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1b0a91c9729ead92db511b6f6c6fe80f1fa8a43dfea78352034241ea81de3509"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255174210</id>
-        <title>
-          Podcast: An Schumachers Unfallort stockt Journalist der Atem: „Mir ist
-          mulmig“
-        </title>
-        <link href="https://www.focus.de/255174210" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Podcast über Renn-Legende</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255233852/michael-schumacher.jpg?im=Crop%3D%280%2C120%2C2464%2C1392%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cb2a7070734b531787c4c1e8dee21b719c86e39db6e399221873e88dc1a47994"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Handball-WM - Deutsche Frauen gewinnen in letzter Sekunde gegen Japan
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255798829" />
-    <id
-      >https://www-dev.focus.de/sport/handball/handball-wm-der-frauen-deutschland-gegen-japan-im-liveticker_id_255798829.html</id
-    >
-    <published>2023-11-30T15:44:38.000Z</published>
-    <updated>2023-11-30T19:35:09.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255605593</id>
-        <title>
-          FC Bayern müsste für Wunschkandidat Eberl Millionen-Ablöse zahlen
-        </title>
-        <link href="https://www.focus.de/255605593" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Bericht</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255761537/max-eberl.jpg?im=Crop%3D%280%2C101%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c257a761dfa669b6cffcb3081923650feb03aced17c52a0be985954f6740de9a"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255620829</id>
-        <title>
-          Freiburg in Europa League weiter, Gregoritsch zerlegt schwaches Piräus
-        </title>
-        <link href="https://www.focus.de/255620829" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255911851/freiburgs-michael-gregoritsch-jubelt-nach-seinem-hattrick.jpg?im=Crop%3D%280%2C224%2C3354%2C1895%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c567643c94c1a095ad307433750fc4b8cdee54da0307fb889f8903307724eb0e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255627330</id>
-        <title>
-          Europa League, BK Häcken - Bayer Leverkusen: Wurschtel-Sieg für
-          Leverkusen
-        </title>
-        <link href="https://www.focus.de/255627330" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255985273/leverkusens-spieler-jubeln-gegen-bk-haecken..jpg?im=Crop%3D%280%2C0%2C2403%2C1357%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=eb3be964959b347d824f7a72b41ac5117541eec951223c85dd9f972db70cff5e"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Zwei Monate nach Horror-Verletzung steht NFL-Star plötzlich vor
-      Blitz-Comeback
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255761717" />
-    <id
-      >https://www-dev.focus.de/sport/nfl/aaron-rodgers-drohte-karriereende-zwei-monate-nach-horror-verletzung-steht-nfl-star-ploetzlich-vor-blitz-comeback_id_255761717.html</id
-    >
-    <published>2023-11-30T16:42:46.000Z</published>
-    <updated>2023-11-30T16:43:25.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_249930082</id>
-        <title>
-          Mark Wahlberg: Nach Lustlos-Auftritt in NFL-Show zerreißt ihn das
-          Internet
-        </title>
-        <link href="https://www.focus.de/249930082" />
-        <author>
-          <name>Sports Illustrated</name>
-        </author>
-        <g:overline>Hollywood-Star beim Football</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/sport/id_249930060/football-fans-spotten-ueber-peinlichen-auftritt-von-mark-wahlberg-in-nfl-show.png?im=Crop%3D%28164%2C0%2C2679%2C1514%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f84e7c60cb1f923fc74ec1f15a4bf079ca8d299b1e80f52240d8dd0bec20bc69"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_209343474</id>
-        <title>
-          Familienvater während wird während NFL-Spiel von Fan zu Tode geprügelt
-        </title>
-        <link href="https://www.focus.de/209343474" />
-        <author>
-          <name>Sports Illustrated</name>
-        </author>
-        <g:overline>Stadion-Schock beim …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/sport/id_209343471/schlimmes-nfl-drama-patriots-fan-stirbt-nach-schlaegerei-im-stadion.jpg?im=Crop%3D%280%2C163%2C3146%2C1777%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=724b943612cb8341645cf5ff3bd4afbb0d8000cc9883942a43e5dcc3bfbeaeed"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_208119141</id>
-        <title>
-          NFL-Superstar will Delfinen beim Sex lauschen, um wieder fit zu werden
-        </title>
-        <link href="https://www.focus.de/208119141" />
-        <author>
-          <name>Sports Illustrated</name>
-        </author>
-        <g:overline>Aaron Rodgers nach Operation</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/koeln/id_208119128/jets-quarterback-aaron-rodgers-schaut-enttaeuscht-beim-spiel-gegen-die-buffalo-bills.png?im=Crop%3D%2894%2C0%2C1065%2C602%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cb5c5726543c1e5f16b654f0d8117c7eea72e7c8292bf825c92e0c769bc70a96"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Biathlon: Trotz Doppel-Ausfall feiert Deutsche Herren-Staffel Podestplatz
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255828266" />
-    <id
-      >https://www-dev.focus.de/sport/wintersport/biathlon/trotz-doppel-ausfall-kurz-vor-start-deutsche-herren-staffel-feiert-podestplatz_id_255828266.html</id
-    >
-    <published>2023-11-30T16:39:05.000Z</published>
-    <updated>2023-11-30T16:41:44.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255813759</id>
-        <title>
-          Eintracht Frankfurt - PAOK Saloniki im Liveticker, Conference League:
-          1:2!
-        </title>
-        <link href="https://www.focus.de/255813759" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Conference League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255984731/enttaeuschte-frankfurter-gesichter-nach-dem-1-2-gegen-paok-saloniki.jpg?im=Crop%3D%280%2C152%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=629ed72b8a727575e4d69d5a72ed67bc9b28ca103ccd1c6a19b677a07bffc53a"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254599710</id>
-        <title>
-          Agyemang Diawusie ist tot - SSV Jahn Regensburg trauert um 25-jährigen
-          Fußballer
-        </title>
-        <link href="https://www.focus.de/254599710" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Agyemang Diawusie</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254599285/regensburg-profi-agyemang-diawusie-ist-mit-25-jahren-gestorben.jpg?im=Crop%3D%280%2C0%2C3219%2C1817%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=287de52f91006c6fecab544fc88dfa59b183a73f181f4d0c9b7cbfc90f60cec6"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255809142</id>
-        <title>
-          „Unzumutbar“: Jetzt holt Faeser bittere Polizei-Realität bei
-          Grenzkontrollen ein
-        </title>
-        <link href="https://www.focus.de/255809142" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>„Unzumutbar, primitiv, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255825824/nancy-faeser-und-ein-polizist..jpg?im=Crop%3D%280%2C196%2C3030%2C1711%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c0541d55bf35c82d9525f8c29bd7dede441fcffdbcb32d192aea4df9d8b7d7d0"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Agyemang Diawusie ist tot - SSV Jahn Regensburg trauert um 25-jährigen
-      Fußballer
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254599710" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/agyemang-diawusie-gestorben-jahn-regensburg-trauert-um-25-jaehrigen-fussballer_id_254599710.html</id
-    >
-    <published>2023-11-28T18:08:12.000Z</published>
-    <updated>2023-11-30T12:38:00.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_253852963</id>
-        <title>
-          In der angeblichen Geldnot handeln Grüne und SPD fantasie- und
-          verantwortungslos
-        </title>
-        <link href="https://www.focus.de/253852963" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Eine Analyse von Ulrich …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_253857725/robert-habeck-l-und-olaf-scholz.jpg?im=Crop%3D%280%2C0%2C3596%2C2029%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b459fa920f51b90fa9b60c87cd590492ba0cee4205f7a96fb612dd9898ec6dbc"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_253839175</id>
-        <title>
-          Kiews Kertsch-Kalkül: Warum Putins Prestigebrücke so ein wichtiges
-          Ziel ist
-        </title>
-        <link href="https://www.focus.de/253839175" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>„Ein Gefühl der …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254559495/imago0302759817h-1-.jpg?im=Crop%3D%280%2C0%2C3000%2C1695%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=c5c077bc73e1f73eb6693f7194d1bea4842dbce9c9fde68b516554406e26f8c8"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254580382</id>
-        <title>
-          Ofarim: Als Strafverteidiger habe ich selten so einen abstrusen
-          Prozess erlebt
-        </title>
-        <link href="https://www.focus.de/254580382" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Gastbeitrag von Burkhard …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254584902/imago0344287635h.jpg?im=Crop%3D%280%2C354%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=85f8e9db75fbe77c647e14f66b6a51ef32b5c65ce352fef7c082970d9081b5a6"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>Zweitligist Kaiserslautern feuert Trainer Dirk Schuster</title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255700758" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/ueberraschende-trennung-zweitligist-kaiserslautern-feuert-trainer-dirk-schuster_id_255700758.html</id
-    >
-    <published>2023-11-30T11:46:38.000Z</published>
-    <updated>2023-11-30T11:46:38.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255368718</id>
-        <title>
-          Sieben Mal die Fünf für die Bayern-Stars - nur einer überzeugt
-          wirklich
-        </title>
-        <link href="https://www.focus.de/255368718" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Bayern-Spieler in der …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/sport/fussball/id_255368717/den-bayern-gelang-offensiv-gegen-kopenhagen-so-gut-wie-ueberhaupt-nichts..jpg?im=Crop%3D%280%2C0%2C812%2C458%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1b0a91c9729ead92db511b6f6c6fe80f1fa8a43dfea78352034241ea81de3509"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255627330</id>
-        <title>
-          Europa League, BK Häcken - Bayer Leverkusen: Wurschtel-Sieg für
-          Leverkusen
-        </title>
-        <link href="https://www.focus.de/255627330" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Europa League, Gruppenphase</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255985273/leverkusens-spieler-jubeln-gegen-bk-haecken..jpg?im=Crop%3D%280%2C0%2C2403%2C1357%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=eb3be964959b347d824f7a72b41ac5117541eec951223c85dd9f972db70cff5e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255224128</id>
-        <title>
-          Champions-League-Konferenz: Union spielt bei Sporting Braga nur 1:1,
-          Real siegt
-        </title>
-        <link href="https://www.focus.de/255224128" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255316962/union-berlin-zu-gast-bei-sporting-braga.jpg?im=Crop%3D%280%2C44%2C3019%2C1705%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e9165925666cab65869263cfbb01477dece4db7d6a652a6de621e1189f36da18"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Sieben Mal die Fünf für die Bayern-Stars - nur einer überzeugt wirklich
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255368718" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/championsleague/fc-bayern-noten-zu-fc-bayern-gegen-fc-kopenhagen-sieben-fuenfer-fuer-unterkuehlte-bayern_id_255368718.html</id
-    >
-    <published>2023-11-29T23:15:04.000Z</published>
-    <updated>2023-11-29T23:42:51.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255174210</id>
-        <title>
-          Podcast: An Schumachers Unfallort stockt Journalist der Atem: „Mir ist
-          mulmig“
-        </title>
-        <link href="https://www.focus.de/255174210" />
-        <author>
-          <name>Abendzeitung</name>
-        </author>
-        <g:overline>Podcast über Renn-Legende</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255233852/michael-schumacher.jpg?im=Crop%3D%280%2C120%2C2464%2C1392%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cb2a7070734b531787c4c1e8dee21b719c86e39db6e399221873e88dc1a47994"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255224128</id>
-        <title>
-          Champions-League-Konferenz: Union spielt bei Sporting Braga nur 1:1,
-          Real siegt
-        </title>
-        <link href="https://www.focus.de/255224128" />
-        <author>
-          <name>Abendzeitung</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255316962/union-berlin-zu-gast-bei-sporting-braga.jpg?im=Crop%3D%280%2C44%2C3019%2C1705%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e9165925666cab65869263cfbb01477dece4db7d6a652a6de621e1189f36da18"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255188288</id>
-        <title>
-          Terroranschlag auf Weihnachtsmarkt geplant? Haftbefehl gegen
-          15-Jährigen
-        </title>
-        <link href="https://www.focus.de/255188288" />
-        <author>
-          <name>Abendzeitung</name>
-        </author>
-        <g:overline>Auf Weihnachtsmarkt</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255196891/ein-weihnachtsmarkt-in-koeln-soll-ein-moegliches-terrorziel-der-beiden-jugendlichen-15-16-gewesen-sein.-.jpg?im=Crop%3D%280%2C109%2C3575%2C2019%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=16ed28d92ecb2e34f9372948a666a64c83c0229ae6b934c7d0857bdcefa88c8e"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Champions-League-Konferenz: Union spielt bei Sporting Braga nur 1:1, Real
-      siegt
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255224128" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/championsleague/champions-league-gruppenphase-champions-league-konferenz-mit-union-berlin-braga-madrid-neapel-im-liveticker_id_255224128.html</id
-    >
-    <published>2023-11-29T18:05:51.000Z</published>
-    <updated>2023-11-29T23:00:49.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255221702</id>
-        <title>
-          Champions League, Vorrunde: FC Bayern gegen FC Kopenhagen: 0:0
-        </title>
-        <link href="https://www.focus.de/255221702" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, Vorrunde</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255360228/gettyimages-1821021560.jpg?im=Crop%3D%280%2C21%2C1024%2C578%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=27a9973ea950b330e6ea4bbe6133fc685e0c4c9dba065d17eb1fbeba1ca7c4b9"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254577372</id>
-        <title>
-          Champions-League-Konferenz: City siegt gegen Leipzig 3:2, Paris holt
-          Punkt
-        </title>
-        <link href="https://www.focus.de/254577372" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254683218/manchester-city-gegen-rb-leipzig.jpg?im=Crop%3D%280%2C174%2C3346%2C1888%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=50a8d5a928b18d747ad65888f5cdece2b2f4b240af992734df95b71c2442ac5c"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255188288</id>
-        <title>
-          Terroranschlag auf Weihnachtsmarkt geplant? Haftbefehl gegen
-          15-Jährigen
-        </title>
-        <link href="https://www.focus.de/255188288" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Auf Weihnachtsmarkt</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255196891/ein-weihnachtsmarkt-in-koeln-soll-ein-moegliches-terrorziel-der-beiden-jugendlichen-15-16-gewesen-sein.-.jpg?im=Crop%3D%280%2C109%2C3575%2C2019%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=16ed28d92ecb2e34f9372948a666a64c83c0229ae6b934c7d0857bdcefa88c8e"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Champions League, Vorrunde: FC Bayern gegen FC Kopenhagen: 0:0
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255221702" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/championsleague/champions-league-vorrunde-fc-bayern-gegen-fc-kopenhagen-im-liveticker_id_255221702.html</id
-    >
-    <published>2023-11-29T18:04:55.000Z</published>
-    <updated>2023-11-30T06:09:47.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255174210</id>
-        <title>
-          Podcast: An Schumachers Unfallort stockt Journalist der Atem: „Mir ist
-          mulmig“
-        </title>
-        <link href="https://www.focus.de/255174210" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Podcast über Renn-Legende</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255233852/michael-schumacher.jpg?im=Crop%3D%280%2C120%2C2464%2C1392%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cb2a7070734b531787c4c1e8dee21b719c86e39db6e399221873e88dc1a47994"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255188288</id>
-        <title>
-          Terroranschlag auf Weihnachtsmarkt geplant? Haftbefehl gegen
-          15-Jährigen
-        </title>
-        <link href="https://www.focus.de/255188288" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Auf Weihnachtsmarkt</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255196891/ein-weihnachtsmarkt-in-koeln-soll-ein-moegliches-terrorziel-der-beiden-jugendlichen-15-16-gewesen-sein.-.jpg?im=Crop%3D%280%2C109%2C3575%2C2019%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=16ed28d92ecb2e34f9372948a666a64c83c0229ae6b934c7d0857bdcefa88c8e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_255224128</id>
-        <title>
-          Champions-League-Konferenz: Union spielt bei Sporting Braga nur 1:1,
-          Real siegt
-        </title>
-        <link href="https://www.focus.de/255224128" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255316962/union-berlin-zu-gast-bei-sporting-braga.jpg?im=Crop%3D%280%2C44%2C3019%2C1705%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e9165925666cab65869263cfbb01477dece4db7d6a652a6de621e1189f36da18"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Podcast: An Schumachers Unfallort stockt Journalist der Atem: „Mir ist
-      mulmig“
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255174210" />
-    <id
-      >https://www-dev.focus.de/sport/formel1/podcast-ueber-renn-legende-an-schumachers-unfallort-stockt-journalist-der-atem-mir-ist-mulmig_id_255174210.html</id
-    >
-    <published>2023-11-29T17:31:53.000Z</published>
-    <updated>2023-11-29T18:35:00.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_255125825</id>
-        <title>
-          Signa-Pleite: Wie Sie das Benko-Beben bald im Alltag merken
-        </title>
-        <link href="https://www.focus.de/255125825" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Alle Antworten zur …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255126340/signa-holding-meldet-80203528.jpg?im=Crop%3D%280%2C79%2C1996%2C1126%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=dbc98b96b8e811d1a189b3c4b487fe37de212b90b6762dc60c7e5f8cd5dad714"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254709219</id>
-        <title>
-          Milliardär und Mäzen: Charlie Munger mit 99 Jahren verstorben
-        </title>
-        <link href="https://www.focus.de/254709219" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Rechte Hand von Warren …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254707553/charlie-munger.jpg?im=Crop%3D%280%2C0%2C3512%2C1984%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=be287d712e4476c04d5d0ebb7ec75a1cf5885ce01607c9c7a8219cb153f3321c"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254577372</id>
-        <title>
-          Champions-League-Konferenz: City siegt gegen Leipzig 3:2, Paris holt
-          Punkt
-        </title>
-        <link href="https://www.focus.de/254577372" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254683218/manchester-city-gegen-rb-leipzig.jpg?im=Crop%3D%280%2C174%2C3346%2C1888%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=50a8d5a928b18d747ad65888f5cdece2b2f4b240af992734df95b71c2442ac5c"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Mit diesen zwei Spielern will Bayern noch vor Weihnachten verlängern
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255204918" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/sportdirektor-freund-gefordert-mit-diesen-zwei-spielern-will-bayern-noch-vor-weihnachten-verlaengern_id_255204918.html</id
-    >
-    <published>2023-11-29T17:28:31.000Z</published>
-    <updated>2023-11-29T17:28:31.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_254678712</id>
-        <title>
-          Wenn Thomas Müller von Anfang an spielen will, "muss er den Verein
-          wechseln”
-        </title>
-        <link href="https://www.focus.de/254678712" />
-        <author>
-          <name>fcbinside</name>
-        </author>
-        <g:overline>Lothar Matthäus</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/koeln/id_253778932/lothar-matthaeus-haelt-bei-einem-tv-auftritt-ein-sky-mikrofon-in-der-hand..jpg?im=Crop%3D%280%2C36%2C3463%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e8a0501921d2e5db29c676c1bf82bd0be81f8c39e516562554adf6107a80bdc7"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_253891103</id>
-        <title>
-          Nach Galaleistung gegen DFB-Elf: FC Bayern offenbar heiß auf
-          Türkei-Star
-        </title>
-        <link href="https://www.focus.de/253891103" />
-        <author>
-          <name>fcbinside</name>
-        </author>
-        <g:overline>Er erzielte den …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_253936245/kardioglu.jpg?im=Crop%3D%280%2C56%2C1500%2C846%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=87dbb82234c47bbd98d8b65318c504e95152e07db46ee7c9bfc442c85bcecb47"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254338455</id>
-        <title>Der FC Bayern will unbedingt diesen jungen Franzosen</title>
-        <link href="https://www.focus.de/254338455" />
-        <author>
-          <name>fcbinside</name>
-        </author>
-        <g:overline>Andere Top-Klubs buhlen …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254366966/leny-yoro-steht-beim-fc-bayern-hoch-im-kurs..jpg?im=Crop%3D%280%2C76%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=272fd1c8bbd8d8c9217da3f0fa7659318c6e38dd5ca0ebe392370302381816b8"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Doku zeigt, wie Fußball zwei geflüchtete Brüder in Deutschland integrierte
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255050694" />
-    <id
-      >https://www-dev.focus.de/kultur/kino_tv/mutter-tot-vater-weg-wie-der-fussball-zwei-gefluechtete-brueder-in-deutschland-integrierte_id_255050694.html</id
-    >
-    <published>2023-11-29T11:00:08.000Z</published>
-    <updated>2023-11-29T14:02:06.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_254580382</id>
-        <title>
-          Ofarim: Als Strafverteidiger habe ich selten so einen abstrusen
-          Prozess erlebt
-        </title>
-        <link href="https://www.focus.de/254580382" />
-        <author>
-          <name>Teleschau</name>
-        </author>
-        <g:overline>Gastbeitrag von Burkhard …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254584902/imago0344287635h.jpg?im=Crop%3D%280%2C354%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=85f8e9db75fbe77c647e14f66b6a51ef32b5c65ce352fef7c082970d9081b5a6"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254555414</id>
-        <title>
-          Virologe Stöhr erwartet „heftigen Corona-Winter“ - das sagen andere
-          Experten
-        </title>
-        <link href="https://www.focus.de/254555414" />
-        <author>
-          <name>Teleschau</name>
-        </author>
-        <g:overline>Steigende Infektionszahlen …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_255019837/gettyimages-1296140220-1-.jpg?im=Crop%3D%2851%2C0%2C3711%2C2097%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=6f6adf02fa4ec3e71e76adf248d587db1d72dd80228d8f7edc31f26744bdb7a2"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_249972747</id>
-        <title>
-          Regierungskrise im Ticker: Ampel will Deutsche steuerlich stärker
-          entlasten
-        </title>
-        <link href="https://www.focus.de/249972747" />
-        <author>
-          <name>Teleschau</name>
-        </author>
-        <g:overline>Regierungskrise in …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_251857754/ampel.jpg?im=Crop%3D%280%2C0%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=4388326f099ec314ea2dd03c4e91f855b4e966e3585c04e9a183f14180088768"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      FC Bayern München gegen FC Kopenhagen: Fußball heute Abend live verfolgen
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254564217" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/champions-league-fc-bayern-muenchen-gegen-fc-kopenhagen-fussball-heute-abend-live-verfolgen_id_254564217.html</id
-    >
-    <published>2023-11-29T11:13:00.000Z</published>
-    <updated>2023-11-29T11:14:58.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_254547580</id>
-        <title>
-          FC Bayern verlängert mit Torhüter-Duo Manuel Neuer und Sven Ulreich
-        </title>
-        <link href="https://www.focus.de/254547580" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Vertrags-Doppelschlag</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/bayern/id_241553882/muenchens-torwart-manuel-neuer-r-klatscht-nach-dem-spiel-mit-muenchens-torwart-sven-ulreich-l-ab..jpg?im=Crop%3D%280%2C0%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=9bcb91212dbfdb5957562ba90ea8891767b28690b89615274cdd03d0e6189317"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254531202</id>
-        <title>
-          Hier können Sie die Partie AC Mailand gegen Borussia Dortmund live
-          sehen
-        </title>
-        <link href="https://www.focus.de/254531202" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Champions League</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254525301/mats-hummels-beim-spiel-gegen-newcastle-united.jpg?im=Crop%3D%280%2C173%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=6cf35f39d3917d2c3c415d5dbe81e836df9f2f4d0815a2ebeb35434fd9e16dab"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Ex-Bundestrainer Vogts fordert: Völler als Teamchef &amp; Nagelsmann als
-      Co-Trainer
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/255025962" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/dfb-team/wenn-wir-erfolgreiche-em-spielen-wollen-ex-bundestrainer-fordert-voeller-als-teamchef-und-nagelsmann-als-co-trainer_id_255025962.html</id
-    >
-    <published>2023-11-29T10:03:50.000Z</published>
-    <updated>2023-11-29T10:56:20.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_57275780</id>
-        <title>
-          Ukraine-Krieg: Selenskyj will Befestigungen an gesamter Front ausbauen
-        </title>
-        <link href="https://www.focus.de/57275780" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Ukraine-Krieg - Stimmen und …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_197020333/putin.jpg?im=Crop%3D%280%2C0%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1a95964d81e37c5b89deb9fbe2fc2e391ddd658c620b0d601138c7d66b4ba513"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_54933749</id>
-        <title>
-          Wetter im Ticker: Wetterdienst warnt vor Glätte und Frost in
-          Deutschland
-        </title>
-        <link href="https://www.focus.de/54933749" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Wetter im Ticker</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_256282259/winterbayern.jpg?im=Crop%3D%280%2C176%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=60a6f634dd48027e42ad013c92da29cb75189388ba2fd9d6e90502e27d653afa"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_249972747</id>
-        <title>
-          Regierungskrise im Ticker: Ampel will Deutsche steuerlich stärker
-          entlasten
-        </title>
-        <link href="https://www.focus.de/249972747" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Regierungskrise in …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_251857754/ampel.jpg?im=Crop%3D%280%2C0%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=4388326f099ec314ea2dd03c4e91f855b4e966e3585c04e9a183f14180088768"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Starker BVB siegt in Mailand – und spielt jetzt gegen PSG um den
-      Gruppensieg
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254528913" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/championsleague/champions-league-gruppenphase-ac-mailand-gegen-borussia-dortmund-im-liveticker_id_254528913.html</id
-    >
-    <published>2023-11-28T15:32:36.000Z</published>
-    <updated>2023-11-28T23:57:06.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_253896548</id>
-        <title>
-          „Wir schämen uns“ - Schalke-Spieler richten sich mit Brief an die Fans
-        </title>
-        <link href="https://www.focus.de/253896548" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Nach Pleite in Düsseldorf</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_253904474/die-schalke-profis-thomas-ouwejan-l.-keke-topp-m.-und-tomas-kalas-stehen-enttaeuscht-vor-den-fans.jpg?im=Crop%3D%280%2C83%2C3618%2C2043%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=57e5a1750ae2a39f68c2d746e8ce24f7cd04197399338c1af325ad5430a0d431"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_253670841</id>
-        <title>
-          Von wegen egal! Gegen Kopenhagen geht es für den FC Bayern um
-          Millionen
-        </title>
-        <link href="https://www.focus.de/253670841" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Gruppensieger in der …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_253720750/bisher-hielt-sich-der-fc-bayern-in-der-champions-league-schadlos.-.jpg?im=Crop%3D%280%2C0%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=d382312b623014ca6f07a31d8ba0bf60f4dff01be766b16b03c44fc122d8d90c"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_251344828</id>
-        <title>
-          BVB schlägt Gladbach, Bayer wieder Tabellenführer, Leipzig verliert
-          ärgerlich
-        </title>
-        <link href="https://www.focus.de/251344828" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Bundesliga, 12. Spieltag</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_252636209/5faef200211a60f9.jpg?im=Crop%3D%280%2C235%2C3313%2C1869%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=e3c27087712a9793b6357f7230d7985bc981b55695f9ceb5d970e758cd5acfa6"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Champions-League-Konferenz: City siegt gegen Leipzig 3:2, Paris holt Punkt
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254577372" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/championsleague/champions-league-gruppenphase-konferenz-im-liveticker-mancity-empfaengt-rb-leipzig-psg-trifft-auf-newcastle_id_254577372.html</id
-    >
-    <published>2023-11-28T17:22:47.000Z</published>
-    <updated>2023-11-28T23:04:11.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_254528913</id>
-        <title>
-          Starker BVB siegt in Mailand – und spielt jetzt gegen PSG um den
-          Gruppensieg
-        </title>
-        <link href="https://www.focus.de/254528913" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Champions League, …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254730606/dortmunds-karim-adeyemi-jubelt-nach-seinem-tor-gegen-milan.jpg?im=Crop%3D%280%2C289%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=7f9b2bd05ecfa5ea7fe5372e7ec4d207e6e1cb9c13eb8c888e301d948f223b1e"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254547580</id>
-        <title>
-          FC Bayern verlängert mit Torhüter-Duo Manuel Neuer und Sven Ulreich
-        </title>
-        <link href="https://www.focus.de/254547580" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Vertrags-Doppelschlag</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/bayern/id_241553882/muenchens-torwart-manuel-neuer-r-klatscht-nach-dem-spiel-mit-muenchens-torwart-sven-ulreich-l-ab..jpg?im=Crop%3D%280%2C0%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=9bcb91212dbfdb5957562ba90ea8891767b28690b89615274cdd03d0e6189317"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_254060129</id>
-        <title>
-          U17-WM: DFB-Jungs kämpfen sich im Elfmeterschießen gegen Argentinien
-          ins Finale
-        </title>
-        <link href="https://www.focus.de/254060129" />
-        <author>
-          <name>dpa</name>
-        </author>
-        <g:overline>Zum ersten Mal seit 38 …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_254381042/paris-brunner-jubelt-fuer-die-deutsche-u17-nationalmannschaft..jpg?im=Crop%3D%280%2C354%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b5573ae09e1f70859ba1a1047661658bd6727f1b1dce8a82a0fba7819ff1fa32"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      In heftiger Wutrede hämmert verletzter NBA-Star auf seine Teamkollegen ein
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/253811865" />
-    <id
-      >https://www-dev.focus.de/sport/nba_basket/das-ist-verdammt-peinlich-in-heftiger-wutrede-haemmert-verletzter-nba-star-auf-seine-teamkollegen-ein_id_253811865.html</id
-    >
-    <published>2023-11-28T19:07:56.000Z</published>
-    <updated>2023-11-28T19:07:56.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_180404423</id>
-        <title>
-          In der verrücktesten Beziehung der USA meldet sich Larsa Pippen jetzt
-          zu Wort
-        </title>
-        <link href="https://www.focus.de/180404423" />
-        <author>
-          <name>OpenCourt Basketball</name>
-        </author>
-        <g:overline>Sie liebt Michael Jordans …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_180405074/larsa-pippen-mit-ihrem-ex-mann-scottie.png?im=Crop%3D%2847%2C0%2C1118%2C632%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=11692b64b7dd0d6988773c5ee96de032969416014afb3b9ba4047a29e02e7154"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_232480724</id>
-        <title>
-          Ex-NBA-Topstar soll Mann missbraucht haben, weil der zu Dreier-Sex
-          nein sagte
-        </title>
-        <link href="https://www.focus.de/232480724" />
-        <author>
-          <name>OpenCourt Basketball</name>
-        </author>
-        <g:overline>Dwight Howard</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_232459447/dwight-howard.jpg?im=Crop%3D%280%2C51%2C1000%2C564%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f59b4fdf621f7cfa3a659faaaa814570c76cbee3438298446d21a1a3078a0d62"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_250572657</id>
-        <title>
-          Auktionshaus kann nicht fassen, was NBA-Fan für Trikot von Wunderkind
-          bezahlt
-        </title>
-        <link href="https://www.focus.de/250572657" />
-        <author>
-          <name>OpenCourt Basketball</name>
-        </author>
-        <g:overline>Debüttrikot von Victor …</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_250591289/wemby-trikot.jpg?im=Crop%3D%280%2C9%2C892%2C504%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=d743433c2ac00021b2320bf875a54c560a6f2398aa9036f0694c7e2938c44e78"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Merz watscht Parteifreund Wegner live im Bundestag ab - der kontert
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254614645" />
-    <id
-      >https://www-dev.focus.de/politik/deutschland/ich-habe-eine-klare-haltung-wegner-schiesst-bei-zoff-um-schuldenbremse-gegen-cdu-parteichef-merz-zurueck_id_254614645.html</id
-    >
-    <published>2023-11-28T19:06:09.000Z</published>
-    <updated>2023-11-28T19:10:37.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_254588171</id>
-        <title>
-          Styling von Bundestagspräsidentin kostet Bürger mehr als 10.000 Euro
-          pro Jahr
-        </title>
-        <link href="https://www.focus.de/254588171" />
-        <author>
-          <name>STERN</name>
-        </author>
-        <g:overline>Bundestagspräsidentin</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/berlin/id_247530357/baerbel-bas-spd-bundestagspraesidentin-eroeffnet-die-sitzung-im-deutschen-bundestag..jpg?im=Crop%3D%280%2C169%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1e95985041b69b8fec1b6b33055ee40dfb9e35fdb67b6627a4ecd12916ffb88f"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_220048976</id>
-        <title>
-          Krieg im Nahen Osten: Feuerpause beendet! Israel nimmt Kämpfe in Gaza
-          wieder auf
-        </title>
-        <link href="https://www.focus.de/220048976" />
-        <author>
-          <name>STERN</name>
-        </author>
-        <g:overline>Krieg im Nahen Osten</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/regional/koeln/id_254086292/menschen-filmen-einen-anfliegenden-hubschrauber-mit-geiseln-die-von-der-ismalistischen-hamas-aus-dem-gazastreifen-frei-gelassen-wurden-am-hubschrauberlandeplatz-des-schneider-children-s-medical-center..jpg?im=Crop%3D%280%2C0%2C3463%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1723ca1cfd1a3e767d21ea3da283d12d6e61c8bfd70eddafd66edfed6eedcbcc"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_54933749</id>
-        <title>
-          Wetter im Ticker: Wetterdienst warnt vor Glätte und Frost in
-          Deutschland
-        </title>
-        <link href="https://www.focus.de/54933749" />
-        <author>
-          <name>STERN</name>
-        </author>
-        <g:overline>Wetter im Ticker</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_256282259/winterbayern.jpg?im=Crop%3D%280%2C176%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=60a6f634dd48027e42ad013c92da29cb75189388ba2fd9d6e90502e27d653afa"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-  <entry>
-    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-    <g:panel_title>Focus Online Rundown</g:panel_title>
-    <title>
-      Hier können Sie die Partie AC Mailand gegen Borussia Dortmund live sehen
-    </title>
-    <author>
-      <name>FOCUS online</name>
-    </author>
-    <link href="https://www.focus.de/254531202" />
-    <id
-      >https://www-dev.focus.de/sport/fussball/champions-league-borussia-dortmund-gegen-ac-mailand-fussball-heute-abend-live_id_254531202.html</id
-    >
-    <published>2023-11-28T15:35:55.000Z</published>
-    <updated>2023-11-28T17:04:28.000Z</updated>
-
-    <g:article_group role="RUNDOWN">
-      <entry>
-        <id>aid_249874735</id>
-        <title>
-          U17-WM im Ticker: Wahnsinn! Yalcinkaya schießt Deutschland gegen USA
-          zum Sieg
-        </title>
-        <link href="https://www.focus.de/249874735" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>U17-WM im Ticker</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_249903947/deutschlands-u17-jubelt-nach-einem-treffer-gegen-die-usa..jpg?im=Crop%3D%280%2C0%2C3407%2C1922%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=8757bc6d2c773897ad953d35d141f3b79a9f3d4d985b2deadc0dff7ad9aa4546"
-        ></media:content>
-      </entry>
-      <entry>
-        <id>aid_248140684</id>
-        <title>
-          DFB-Testspiel: Türkische Fans sorgen für gellendes Pfeifkonzert
-        </title>
-        <link href="https://www.focus.de/248140684" />
-        <author>
-          <name>FOCUS online</name>
-        </author>
-        <g:overline>Testspiel des DFB-Teams</g:overline>
-        <media:content
-          url="https://p6.focus.de/img/fotos/id_248306070/dfb-2.jpg?im=Crop%3D%280%2C353%2C3451%2C1950%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=6a2c38cca97baee34120d62eb26bb688d28a36e29c7a8cf088d2807a63f0868a"
-        ></media:content>
-      </entry>
-    </g:article_group>
-  </entry>
-</feed>
+    <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Cora Schumacher kündigt „wahre Geschichte“ über Pocher-Affäre an</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259697003"/>
+                    <id>https://www-dev.focus.de/kultur/vermischtes/die-wahre-geschichte-folgt-cora-schumacher-betitelt-oliver-pocher-als-luegner_id_259697003.html</id>
+                    <published>2024-02-23T08:19:06.000Z</published>
+                    <updated>2024-02-26T06:54:25.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259696500</id>
+                                    <title>Baerbock-Flug verzögert: „Brasilianer legen uns irgendwie Steine in den Weg“</title>
+                                    <link href="https://www.focus.de/259696500"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Pannen-Reihe</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259696506/g20-aussenministertreffen-in-rio-de-janeiro.jpg?im=Crop%3D%280%2C68%2C3643%2C2058%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=106d3446b89248dd0f8d6fb866e0310608e16f2ffbe6a37598bf456a16268b67"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259695362</id>
+                                    <title>Schnitzel schon bei 30 Euro – „Die Leute kommen trotzdem“ </title>
+                                    <link href="https://www.focus.de/259695362"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Mehrwertsteueranpassung</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259617419/imago0256437117h.jpg?im=Crop%3D%280%2C295%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1978922899b6114d2ec1042dd8762ce7e57e8f02f74b05edc8fb8cf7d83c234a"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259696823</id>
+                                    <title>„Glauben Sie das wirklich?“ Aussage von Grünen-Mann macht Lanz fassungslos</title>
+                                    <link href="https://www.focus.de/259696823"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Debatte um Bezahlkarte für …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/kultur/kino_tv/id_259696818/in-zusammenhang-mit-der-bezahlkarte-und-potenziellen-diskriminierungs-faktoren-redete-sich-gruenen-politiker-belit-onay-rechts-bei-markus-lanz-in-rage..jpg?im=Crop%3D%280%2C41%2C1360%2C768%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b39fd35a499aa67e81cf260013e003018d9c6f67f89927998b0f062cd7a4c054"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Bayern-Stars lassen sich von Tuchel „nichts mehr sagen“</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259697001"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/mannschaft-coacht-sich-quasi-selbst-bayern-stars-lassen-sich-von-tuchel-nichts-mehr-sagen_id_259697001.html</id>
+                    <published>2024-02-23T08:04:54.000Z</published>
+                    <updated>2024-02-23T08:52:43.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259696982</id>
+                                    <title>FC Bayern: Tuchel wollte Kimmich schon letzten Sommer verkaufen</title>
+                                    <link href="https://www.focus.de/259696982"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Für neuen Mittelfeldspieler</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259555462/joshua-kimmich-und-thomas-tuchel.png?im=Crop%3D%28184%2C0%2C1550%2C876%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=4855ff396f827aff507230e857b0175f46b62a0cb0258fd048dfdac723de557f"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259696378</id>
+                                    <title>FC Bayern: Das Tuchel-Ende darf nur der Anfang der großen Transformation sein</title>
+                                    <link href="https://www.focus.de/259696378"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Radikaler Umbau im Sommer?</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_200293729/thomas-tuchel.png?im=Crop%3D%28127%2C0%2C1324%2C748%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=83ab69a2ad2c29f349cf75e2c034a862d6b4a2c5cf30e368db2c3a1c9486ae70"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259692262</id>
+                                    <title>SC Freiburg gegen RC Lens im Liveticker - Europa League: 3:2 nach Verlängerung</title>
+                                    <link href="https://www.focus.de/259692262"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>0:2-Rückstand in der Europa …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259696436/freiburgs-michael-gregoritsch-l-trifft-zum-3-2-in-der-verlaengerung.jpg?im=Crop%3D%280%2C354%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f15927bdd75fbc545fffe271019414f1f01e38b69bb28202f5587d8e317a6c0c"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>FC Bayern: Tuchel wollte Kimmich schon letzten Sommer verkaufen</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259696982"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/fuer-neuen-mittelfeldspieler-tuchel-wollte-kimmich-schon-letzten-sommer-verkaufen_id_259696982.html</id>
+                    <published>2024-02-23T07:55:06.000Z</published>
+                    <updated>2024-02-23T08:32:32.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695894</id>
+                                    <title>Bayern-Spieler wünschen sich „sofortige Tuchel-Trennung“</title>
+                                    <link href="https://www.focus.de/259695894"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Vorzeitiges Aus nicht vom …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/bundesliga1/id_259695892/bericht-bayern-spieler-haben-sich-sofortige-tuchel-trennung-gewuenscht.jpg?im=Crop%3D%280%2C76%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cf66970eb8f0d07f583270b0036ce6c9a2b17eaeea01f275e1fd61ab1e0d349d"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259696378</id>
+                                    <title>FC Bayern: Das Tuchel-Ende darf nur der Anfang der großen Transformation sein</title>
+                                    <link href="https://www.focus.de/259696378"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Radikaler Umbau im Sommer?</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_200293729/thomas-tuchel.png?im=Crop%3D%28127%2C0%2C1324%2C748%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=83ab69a2ad2c29f349cf75e2c034a862d6b4a2c5cf30e368db2c3a1c9486ae70"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259692304</id>
+                                    <title>Europa-Reise beendet! Eintracht Frankfurt verliert gegen Union Saint-Gilloise</title>
+                                    <link href="https://www.focus.de/259692304"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Conference League, Playoffs</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259696543/dennis-eckert-ayensa-2.v.r.-trifft-zum-zwischenzeitlichen-2-0-fuer-union-saint-gilloise-gegen-eintracht-frankfurt.jpg?im=Crop%3D%280%2C176%2C3463%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=3a59447952db619a961e61222560557011642b0c4b9e462a6cf6613cb6508e5e"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>„Er wusste, dass es vorbei war“: So reagierte Tuchel auf sein Bayern-Aus</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259695529"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/er-wusste-dass-es-vorbei-war-so-hat-tuchel-auf-sein-bayern-aus-reagiert_id_259695529.html</id>
+                    <published>2024-02-22T16:01:55.000Z</published>
+                    <updated>2024-02-23T07:02:24.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695894</id>
+                                    <title>Bayern-Spieler wünschen sich „sofortige Tuchel-Trennung“</title>
+                                    <link href="https://www.focus.de/259695894"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Vorzeitiges Aus nicht vom …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/bundesliga1/id_259695892/bericht-bayern-spieler-haben-sich-sofortige-tuchel-trennung-gewuenscht.jpg?im=Crop%3D%280%2C76%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cf66970eb8f0d07f583270b0036ce6c9a2b17eaeea01f275e1fd61ab1e0d349d"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690651</id>
+                                    <title>Habeck erzählt uns ein ökonomisches Märchen - es wird böse enden</title>
+                                    <link href="https://www.focus.de/259690651"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Kolumne von Sarna Röser</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692099/roeserhabeck.png?im=Crop%3D%2865%2C0%2C989%2C559%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=ccc8e0fe496d32fa915de69c712a37cbc52a8071dd0314f54d02dbda99bf1dd2"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259693631</id>
+                                    <title>Motocross-Star Jayden Archer stirbt mit 27 Jahren bei Stunt</title>
+                                    <link href="https://www.focus.de/259693631"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Im Training</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259693670/motocross-star-stirbt-mit-27-jahren.jpg?im=Crop%3D%280%2C0%2C800%2C451%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=4f3f05d6f9201eeb3cb230415cf12647690b017c18d897829d0d25d02c023b10"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Motocross-Star Jayden Archer stirbt mit 27 Jahren bei Stunt</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259693631"/>
+                    <id>https://www-dev.focus.de/panorama/welt/motocross-star-jayden-archer-stirbt-mit-27-jahren_id_259693631.html</id>
+                    <published>2024-02-22T10:03:24.000Z</published>
+                    <updated>2024-02-23T08:50:10.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695894</id>
+                                    <title>Bayern-Spieler wünschen sich „sofortige Tuchel-Trennung“</title>
+                                    <link href="https://www.focus.de/259695894"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Vorzeitiges Aus nicht vom …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/bundesliga1/id_259695892/bericht-bayern-spieler-haben-sich-sofortige-tuchel-trennung-gewuenscht.jpg?im=Crop%3D%280%2C76%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cf66970eb8f0d07f583270b0036ce6c9a2b17eaeea01f275e1fd61ab1e0d349d"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259694977</id>
+                                    <title>Arche-Gründer gegen Bürgergeld: „Schmarotzer, der 20 Stellen ablehnt“</title>
+                                    <link href="https://www.focus.de/259694977"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Bernd Siggelkow</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/berlin/id_259668137/bernd-siggelkow-der-gruender-des-hilfswerks-die-arche-..jpg?im=Crop%3D%280%2C44%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=948dd10ff0f914185cc2287241b5930bdca518fceaa41b27ae320497bfc797ef"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690651</id>
+                                    <title>Habeck erzählt uns ein ökonomisches Märchen - es wird böse enden</title>
+                                    <link href="https://www.focus.de/259690651"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Kolumne von Sarna Röser</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692099/roeserhabeck.png?im=Crop%3D%2865%2C0%2C989%2C559%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=ccc8e0fe496d32fa915de69c712a37cbc52a8071dd0314f54d02dbda99bf1dd2"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Bayern-Spieler wünschen sich „sofortige Tuchel-Trennung“</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259695894"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/vorzeitiges-aus-wohl-nicht-vom-tisch-bericht-bayern-spieler-haben-sich-sofortige-tuchel-trennung-gewuenscht_id_259695894.html</id>
+                    <published>2024-02-22T17:20:58.000Z</published>
+                    <updated>2024-02-23T06:26:20.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259690651</id>
+                                    <title>Habeck erzählt uns ein ökonomisches Märchen - es wird böse enden</title>
+                                    <link href="https://www.focus.de/259690651"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Kolumne von Sarna Röser</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692099/roeserhabeck.png?im=Crop%3D%2865%2C0%2C989%2C559%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=ccc8e0fe496d32fa915de69c712a37cbc52a8071dd0314f54d02dbda99bf1dd2"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259693631</id>
+                                    <title>Motocross-Star Jayden Archer stirbt mit 27 Jahren bei Stunt</title>
+                                    <link href="https://www.focus.de/259693631"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Im Training</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259693670/motocross-star-stirbt-mit-27-jahren.jpg?im=Crop%3D%280%2C0%2C800%2C451%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=4f3f05d6f9201eeb3cb230415cf12647690b017c18d897829d0d25d02c023b10"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259694977</id>
+                                    <title>Arche-Gründer gegen Bürgergeld: „Schmarotzer, der 20 Stellen ablehnt“</title>
+                                    <link href="https://www.focus.de/259694977"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Bernd Siggelkow</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/berlin/id_259668137/bernd-siggelkow-der-gruender-des-hilfswerks-die-arche-..jpg?im=Crop%3D%280%2C44%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=948dd10ff0f914185cc2287241b5930bdca518fceaa41b27ae320497bfc797ef"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Europa-Reise beendet! Eintracht Frankfurt verliert gegen Union Saint-Gilloise</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259692304"/>
+                    <id>https://www-dev.focus.de/sport/fussball/europa-league/conference-league-zwischenrunde-conference-league-eintracht-frankfurt-gegen-union-saint-gilloise-im-liveticker_id_259692304.html</id>
+                    <published>2024-02-22T17:16:36.000Z</published>
+                    <updated>2024-02-22T22:57:59.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259690077</id>
+                                    <title>DFB-Newsticker vor Heim-EM: Magath sieht Neuer als wichtigen EM-Faktor für DFB</title>
+                                    <link href="https://www.focus.de/259690077"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>DFB-Newsticker vor der …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_246244583/manuel-neuer-mit-kampfansage-ans-em-tor.jpg?im=Crop%3D%280%2C193%2C3436%2C1941%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=fd8600b03404d1cad683a4a515a8a2f8f0f943129ccedb0f6ab1205aebafa394"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259689998</id>
+                                    <title>Champions League, Achtelfinal-Hinspiel: Porto schockt Arsenal ganz spät</title>
+                                    <link href="https://www.focus.de/259689998"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>Champions League, …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692826/imago1040960955h.jpg?im=Crop%3D%280%2C141%2C2700%2C1524%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=a4839b51f0404b84c604e4a34a980d8134308fa9141bc36b38dcb642e299a27c"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259689968</id>
+                                    <title>Fußball-EM im Ticker: Fan-Experte fordert Polizei auf Kommunikation zu setzen</title>
+                                    <link href="https://www.focus.de/259689968"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>Fußball-EM 2024 im …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/bayern/id_259610874/deutsche-fans-jubeln-waehrend-dem-spiel-mit-fahnen-in-der-lanxess-arena..jpg?im=Crop%3D%280%2C104%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=22a0e5ef01c1203b4f24c1615a06a206a01c4b630fbeac08d5a393b84ed27125"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>SC Freiburg gegen RC Lens im Liveticker - Europa League: 3:2 nach Verlängerung</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259692262"/>
+                    <id>https://www-dev.focus.de/sport/fussball/europa-league/europa-league-zwischenrunde-sc-freiburg-gegen-rc-lens-im-liveticker_id_259692262.html</id>
+                    <published>2024-02-22T17:09:30.000Z</published>
+                    <updated>2024-02-22T22:11:34.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259691046</id>
+                                    <title>1. FC Bocholt II: Nach seinem Rauswurf baut dieser Trainer die ganze Kabine ab</title>
+                                    <link href="https://www.focus.de/259691046"/>
+                                    <author>
+                                        <name>dpa</name>
+                                    </author>
+                                    <g:overline>Irre Szenen beim 1. FC …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/koeln/id_259691045/ein-foto-zeigt-die-komplett-abgebaute-kabine-der-zweitvertretung-des-1.-fc-bocholt..jpg?im=Crop%3D%280%2C66%2C2100%2C1186%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b0cdbfd00c1ea2f06399f245606f87fb886dc2c3f350f83b586413825e784200"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690515</id>
+                                    <title>PSG-Kapitän Marquinhos: So viele Millionen verdient der Abwehrspieler</title>
+                                    <link href="https://www.focus.de/259690515"/>
+                                    <author>
+                                        <name>dpa</name>
+                                    </author>
+                                    <g:overline>Marquinhos bald bei Bayern?</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/bayern/id_185346923/marquinhos-von-paris-spielt-den-ball..jpg?im=Crop%3D%280%2C72%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=a89b282f3cdfccacb192c7958e684c50e84b308154690a2f274e5327b0fe6108"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Kimmich, Goretzka, Gündogan: Was das Kroos-Comeback für sie bedeutet</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259695251"/>
+                    <id>https://www-dev.focus.de/sport/fussball/dfb-team/kimmich-goretzka-guendogan-was-das-kroos-comeback-fuer-die-deutschen-platzhirsche-bedeutet_id_259695251.html</id>
+                    <published>2024-02-22T18:48:40.000Z</published>
+                    <updated>2024-02-22T20:28:49.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259691896</id>
+                                    <title>22-Jähriger wächst in Armut auf und hat Forderungen ans Bürgergeld</title>
+                                    <link href="https://www.focus.de/259691896"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Stefan Huber</name>
+                                    </author>
+                                    <g:overline>Eltern lebten von …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692317/thiel-fin-vt.jpg?im=Crop%3D%280%2C38%2C1200%2C678%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b2c37570590c2b0325f6f575d7acf76a6f0335910950489ee5d71243ec45d15e"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259686935</id>
+                                    <title>Erinnerung an Andreas Brehme: Goldener Elfmeter, Italien-Liebe und Kanzler Kohl</title>
+                                    <link href="https://www.focus.de/259686935"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Stefan Huber</name>
+                                    </author>
+                                    <g:overline>Unser WM-Held von 1990 ist …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/id_259686934/andreas-brehme-wm-held-von-1990-liebte-italien-und-genoss-sein-leben-in-vollen-zuegen.jpg?im=Crop%3D%280%2C176%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=5e5a9203d733ebce45a5c827801b7f073d89f0774e2bc1bb779c100ebd9a74d1"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690651</id>
+                                    <title>Habeck erzählt uns ein ökonomisches Märchen - es wird böse enden</title>
+                                    <link href="https://www.focus.de/259690651"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Stefan Huber</name>
+                                    </author>
+                                    <g:overline>Kolumne von Sarna Röser</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259692099/roeserhabeck.png?im=Crop%3D%2865%2C0%2C989%2C559%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=ccc8e0fe496d32fa915de69c712a37cbc52a8071dd0314f54d02dbda99bf1dd2"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>So erklärte Tuchel den Bayern-Bossen die Probleme der Mannschaft</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259696132"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/schon-nach-lazio-pleite-so-erklaerte-tuchel-den-bayern-bossen-die-probleme-der-mannschaft_id_259696132.html</id>
+                    <published>2024-02-22T18:53:04.000Z</published>
+                    <updated>2024-02-22T18:54:51.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695894</id>
+                                    <title>Bayern-Spieler wünschen sich „sofortige Tuchel-Trennung“</title>
+                                    <link href="https://www.focus.de/259695894"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Vorzeitiges Aus nicht vom …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/bundesliga1/id_259695892/bericht-bayern-spieler-haben-sich-sofortige-tuchel-trennung-gewuenscht.jpg?im=Crop%3D%280%2C76%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cf66970eb8f0d07f583270b0036ce6c9a2b17eaeea01f275e1fd61ab1e0d349d"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259695529</id>
+                                    <title>„Er wusste, dass es vorbei war“: So reagierte Tuchel auf sein Bayern-Aus</title>
+                                    <link href="https://www.focus.de/259695529"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Bayern-Coach muss im Sommer …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/bundesliga1/id_259695527/er-wusste-dass-es-vorbei-war-so-hat-tuchel-auf-sein-bayern-aus-reagiert.jpg?im=Crop%3D%280%2C16%2C1500%2C847%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=de5417e199e411fe59c65b6672c5e98c2a480c110ff02bfcbb1c75e4b71053a9"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259693489</id>
+                                    <title>Generation Kimmich hat nur noch 143 Tage, um ihr Vermächtnis zu retten</title>
+                                    <link href="https://www.focus.de/259693489"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Bayern-Krise, …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_200080102/goretzka-kimmich-gnabry-sane.png?im=Crop%3D%2875%2C0%2C948%2C536%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f1062697c0cd065d93194f4e6b3bbdb293af980102cbc60ca654058f185486a1"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Mega-Wut wegen Tuchel-Aus - Bayern-Fans gehen auf die Spieler los</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259690748"/>
+                    <id>https://www-dev.focus.de/sport/verheizen-top-trainer-wie-brennholz-wut-wegen-tuchel-aus-bayern-fans-gehen-auf-spieler-los_id_259690748.html</id>
+                    <published>2024-02-21T13:11:18.000Z</published>
+                    <updated>2024-02-22T16:53:52.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695591</id>
+                                    <title>„City“-Gründer Fritz Puppel stirbt unerwartet mit 79</title>
+                                    <link href="https://www.focus.de/259695591"/>
+                                    <author>
+                                        <name>Kölner Express</name>
+                                    </author>
+                                    <g:overline>Sänger teilt mit</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/berlin/id_181052953/fritz-puppel-von-der-band-city-bei-der-verleihung-der-sepp-herberger-awards-2022..jpg?im=Crop%3D%280%2C0%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=792c230bc386b02f1f99b0b8ab4f7e4b222d8cebacee01e4c0ea5379f8260748"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259692322</id>
+                                    <title>Corona: Immer mehr Menschen leiden an Dauer-Infektion</title>
+                                    <link href="https://www.focus.de/259692322"/>
+                                    <author>
+                                        <name>Kölner Express</name>
+                                    </author>
+                                    <g:overline>Auf und Ab der Viruslast</g:overline>
+                                    <media:content url="https://p6.focus.de/img/wissen/id_259692320/hartnaeckige-corona-infektionen-haeufiger-als-bislang-angenommen.jpg?im=Crop%3D%283%2C0%2C1274%2C720%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=cdf8ba63a13a30dbc255e73dbd80bcadaf6954487ed5b24c9c3436237b9f95a5"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259695464</id>
+                                    <title>Verlegerin streicht N-Wort aus Michael Endes „Jim Knopf“</title>
+                                    <link href="https://www.focus.de/259695464"/>
+                                    <author>
+                                        <name>Kölner Express</name>
+                                    </author>
+                                    <g:overline>Gegen rassistische Sprache</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259695444/imago0059805055h.jpg?im=Crop%3D%280%2C135%2C3400%2C1920%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=9600d8a295fa7e806cb3245aa3d206584820de06acfeeebe9aa5bf7c26e54d67"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Tuchel darf nur aus einem Grund bis Sommer bei Bayern bleiben</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259690605"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bundesliga1/nur-aus-einem-grund-darf-tuchel-bei-bayern-ueberhaupt-bis-sommer-bleiben_id_259690605.html</id>
+                    <published>2024-02-21T12:02:00.000Z</published>
+                    <updated>2024-02-22T16:37:03.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695591</id>
+                                    <title>„City“-Gründer Fritz Puppel stirbt unerwartet mit 79</title>
+                                    <link href="https://www.focus.de/259695591"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Sänger teilt mit</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/berlin/id_181052953/fritz-puppel-von-der-band-city-bei-der-verleihung-der-sepp-herberger-awards-2022..jpg?im=Crop%3D%280%2C0%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=792c230bc386b02f1f99b0b8ab4f7e4b222d8cebacee01e4c0ea5379f8260748"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_72885571</id>
+                                    <title>Ukraine: Jetzt droht der Ukraine ein „katastrophaler“ Waffenmangel</title>
+                                    <link href="https://www.focus.de/72885571"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>Ukraine-Update am Morgen</g:overline>
+                                    <media:content url="https://p6.focus.de/img/politik/ausland/id_194416382/ukrainische-soldaten-feuern-eine-kanone-in-der-naehe-von-bachmut-ab..jpg?im=Crop%3D%280%2C104%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f8c690034cd686ff6af11ded2c6938cfa60e005fee5b5635df1dbbad8b3ab7c6"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690389</id>
+                                    <title>In München verkommt ein Stadtviertel zum Spielball für Millionäre</title>
+                                    <link href="https://www.focus.de/259690389"/>
+                                    <author>
+                                        <name>fcbinside</name>
+                                    </author>
+                                    <g:overline>„Verliert seinen Charakter“</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/muenchen/id_259690387/an-der-ostpreussenstrasse-in-denning-haben-in-letzter-zeit-viele-alteingesessene-geschaefte-geschlossen..jpg?im=Crop%3D%280%2C0%2C812%2C458%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=69760cee6775f3619dbd739e32bc631eb86c329691d4c9f08d0272427cc8f577"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Generation Kimmich hat nur noch 143 Tage, um ihr Vermächtnis zu retten</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259693489"/>
+                    <id>https://www-dev.focus.de/sport/fussball/bayern-krise-nationalelf-fiasko-die-generation-kimmich-hat-nur-noch-143-tage-um-ihr-vermaechtnis-zu-retten_id_259693489.html</id>
+                    <published>2024-02-22T09:56:14.000Z</published>
+                    <updated>2024-02-22T16:31:30.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695591</id>
+                                    <title>„City“-Gründer Fritz Puppel stirbt unerwartet mit 79</title>
+                                    <link href="https://www.focus.de/259695591"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Paul-Nikolas Hi</name>
+                                    </author>
+                                    <g:overline>Sänger teilt mit</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/berlin/id_181052953/fritz-puppel-von-der-band-city-bei-der-verleihung-der-sepp-herberger-awards-2022..jpg?im=Crop%3D%280%2C0%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=792c230bc386b02f1f99b0b8ab4f7e4b222d8cebacee01e4c0ea5379f8260748"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690605</id>
+                                    <title>Tuchel darf nur aus einem Grund bis Sommer bei Bayern bleiben</title>
+                                    <link href="https://www.focus.de/259690605"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Paul-Nikolas Hi</name>
+                                    </author>
+                                    <g:overline>Trainer-Aus nach einem Jahr</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259690701/thomas-tuchel.png?im=Crop%3D%28157%2C0%2C2113%2C1194%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=9064785fbbcfa851bf859e34634aa35af5ea84e84eebdaae20ccafe671b17137"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_72885571</id>
+                                    <title>Ukraine: Jetzt droht der Ukraine ein „katastrophaler“ Waffenmangel</title>
+                                    <link href="https://www.focus.de/72885571"/>
+                                    <author>
+                                        <name>Von FOCUS-online-Redakteur Paul-Nikolas Hi</name>
+                                    </author>
+                                    <g:overline>Ukraine-Update am Morgen</g:overline>
+                                    <media:content url="https://p6.focus.de/img/politik/ausland/id_194416382/ukrainische-soldaten-feuern-eine-kanone-in-der-naehe-von-bachmut-ab..jpg?im=Crop%3D%280%2C104%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=f8c690034cd686ff6af11ded2c6938cfa60e005fee5b5635df1dbbad8b3ab7c6"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Littler setzt neue Maßstäbe: Darts-Wunderkind unterschreibt Mega-Vertrag</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259695511"/>
+                    <id>https://www-dev.focus.de/sport/mehrsport/groesster-deal-aller-zeiten-littler-setzt-neue-massstaebe-darts-wunderkind-unterschreibt-mega-vertrag_id_259695511.html</id>
+                    <published>2024-02-22T16:12:05.000Z</published>
+                    <updated>2024-02-22T16:17:44.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259688944</id>
+                                    <title>„Komplette Aubeutung!“, schimpft Bürgergeldempfänger und kündigt nach einem Tag</title>
+                                    <link href="https://www.focus.de/259688944"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>„Das ist komplette …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259688947/eimago0413207036h.jpg?im=Crop%3D%280%2C137%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=834dd5edf6d45314ea555fec87c0ecb4cd1bacce2000e070256172f47e1147db"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259686935</id>
+                                    <title>Erinnerung an Andreas Brehme: Goldener Elfmeter, Italien-Liebe und Kanzler Kohl</title>
+                                    <link href="https://www.focus.de/259686935"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Unser WM-Held von 1990 ist …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/id_259686934/andreas-brehme-wm-held-von-1990-liebte-italien-und-genoss-sein-leben-in-vollen-zuegen.jpg?im=Crop%3D%280%2C176%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=5e5a9203d733ebce45a5c827801b7f073d89f0774e2bc1bb779c100ebd9a74d1"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259689460</id>
+                                    <title>Reporterin redet schonungslos über die Lage in der Ukraine - Lanz ist überrascht</title>
+                                    <link href="https://www.focus.de/259689460"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>TV-Kolumne Markus Lanz</g:overline>
+                                    <media:content url="https://p6.focus.de/img/kultur/kino_tv/id_259689454/aus-kiew-zugeschaltet-berichtete-zdf-korrespondentin-katrin-eigendorf-bei-markus-lanz-ueber-die-dramatische-lage-in-der-ukraine..jpg?im=Crop%3D%280%2C77%2C1360%2C768%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=323eca173e17036a1eb5ea619c61306eefb8521b17b7e617e51c52f0dc3e2adb"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Fußball-EM 2024: Das sind die zehn Stadien für die Heim-Europameisterschaft</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259550762"/>
+                    <id>https://www-dev.focus.de/sport/fussball/em/olympiastadion-allianz-arena-volksparkstadion-das-sind-die-zehn-stadien-der-heim-europameisterschaft-2024_id_259550762.html</id>
+                    <published>2024-02-02T14:45:01.000Z</published>
+                    <updated>2024-02-22T15:54:47.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259608493</id>
+                                    <title>In diese Quartiere ziehen die Nationalmannschaften während der Heim-EM 2024</title>
+                                    <link href="https://www.focus.de/259608493"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Fußball-EM 2024 in …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/id_13438449/die-deutsche-nationalmannschaft-wohnt-im-home-ground-in-herzogenaurach..jpg?im=Crop%3D%280%2C0%2C812%2C458%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=00ac13a4147101cd194fd20d23d7df95175a11538bae3894b62085943d2c7889"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259686935</id>
+                                    <title>Erinnerung an Andreas Brehme: Goldener Elfmeter, Italien-Liebe und Kanzler Kohl</title>
+                                    <link href="https://www.focus.de/259686935"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Unser WM-Held von 1990 ist …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/id_259686934/andreas-brehme-wm-held-von-1990-liebte-italien-und-genoss-sein-leben-in-vollen-zuegen.jpg?im=Crop%3D%280%2C176%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=5e5a9203d733ebce45a5c827801b7f073d89f0774e2bc1bb779c100ebd9a74d1"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259684775</id>
+                                    <title>Diese Sportart ist bei den Olympischen Spielen 2024 in Paris neu dabei</title>
+                                    <link href="https://www.focus.de/259684775"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Olympia 2024 in Paris</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259684903/gettyimages-1452661462.jpg?im=Crop%3D%280%2C108%2C2121%2C1198%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=2188fad7ce1c8493017528bbbb19f4ee7a8f11fd869a76f5c4cbcaa445c487e0"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>DFB-Hammer! Toni Kroos verkündet Rückkehr zur Nationalmannschaft</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259695047"/>
+                    <id>https://www-dev.focus.de/sport/fussball/comeback-perfekt-toni-kroos-kehrt-zum-dfb-zurueck_id_259695047.html</id>
+                    <published>2024-02-22T14:24:16.000Z</published>
+                    <updated>2024-02-22T16:25:20.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259689968</id>
+                                    <title>Fußball-EM im Ticker: Fan-Experte fordert Polizei auf Kommunikation zu setzen</title>
+                                    <link href="https://www.focus.de/259689968"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>Fußball-EM 2024 im …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/bayern/id_259610874/deutsche-fans-jubeln-waehrend-dem-spiel-mit-fahnen-in-der-lanxess-arena..jpg?im=Crop%3D%280%2C104%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=22a0e5ef01c1203b4f24c1615a06a206a01c4b630fbeac08d5a393b84ed27125"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259499229</id>
+                                    <title>Der Spielplan zur Fußball-EM 2024 in Deutschland im Überblick</title>
+                                    <link href="https://www.focus.de/259499229"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>Heim-EM 2024</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259499292/olympiastadion-em-2024-fussball.jpg?im=Crop%3D%280%2C87%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1da31c3828c88690af4b78d77753006185c3c8c6a2c45fcd52e7fa6e027491aa"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259692141</id>
+                                    <title>Nach wochenlangen Fanprotesten: Investorendeal der DFL ist geplatzt</title>
+                                    <link href="https://www.focus.de/259692141"/>
+                                    <author>
+                                        <name>mit dpa</name>
+                                    </author>
+                                    <g:overline>Watzke spricht von …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259679658/imago1040686744h.jpg?im=Crop%3D%280%2C125%2C2598%2C1467%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=d401d722eb9641949d7994658b0df389b5d45718ae9c07a8dda1b760299869b3"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Der Spielplan zur Fußball-EM 2024 in Deutschland im Überblick</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259499229"/>
+                    <id>https://www-dev.focus.de/sport/fussball/em/alle-gruppen-und-termine-der-spielplan-zur-fussball-europameisterschaft-2024_id_259499229.html</id>
+                    <published>2024-02-02T14:10:21.000Z</published>
+                    <updated>2024-02-22T15:40:49.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259686385</id>
+                                    <title>Die Fußball-Welt trauert um Weltmeister Andreas Brehme</title>
+                                    <link href="https://www.focus.de/259686385"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Erste Reaktionen</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/fussball/id_259686161/imago0000281477h.jpg?im=Crop%3D%280%2C138%2C2642%2C1491%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=bad894941cbc0e93532abaa6d413c646f110bde9f9a9b28931daf6cf562ce701"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259684775</id>
+                                    <title>Diese Sportart ist bei den Olympischen Spielen 2024 in Paris neu dabei</title>
+                                    <link href="https://www.focus.de/259684775"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Olympia 2024 in Paris</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259684903/gettyimages-1452661462.jpg?im=Crop%3D%280%2C108%2C2121%2C1198%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=2188fad7ce1c8493017528bbbb19f4ee7a8f11fd869a76f5c4cbcaa445c487e0"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259665764</id>
+                                    <title>Olympia 2024 in Paris: Alle Infos zu den Sommerspielen im Überblick</title>
+                                    <link href="https://www.focus.de/259665764"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Termine, Sportarten und …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/sport/tennis/id_259480645/gruenes-licht-vom-ioc-russen-und-belarussen-duerfen-zu-olympia.jpg?im=Crop%3D%280%2C52%2C1024%2C578%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=86eff4095347a23ffd4d215a36e32c03cc94b33b86863111cbe8f9808f84e42e"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>DFB-Newsticker vor Heim-EM: Magath sieht Neuer als wichtigen EM-Faktor für DFB</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259690077"/>
+                    <id>https://www-dev.focus.de/sport/fussball/em/dfb-newsticker-vor-der-heim-em-2024-magath-neuer-ist-wichtiger-em-faktor-fuer-nationalmannschaft_id_259690077.html</id>
+                    <published>2024-02-22T14:54:36.000Z</published>
+                    <updated>2024-02-22T19:40:49.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695047</id>
+                                    <title>DFB-Hammer! Toni Kroos verkündet Rückkehr zur Nationalmannschaft</title>
+                                    <link href="https://www.focus.de/259695047"/>
+                                    <author>
+                                        <name>dpa</name>
+                                    </author>
+                                    <g:overline>Verkündung bei Instagram</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/bayern/id_259512300/deutschlands-toni-kroos-spielt-den-ball..jpg?im=Crop%3D%280%2C67%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=54eb595a3ef3e68e4219d4d907b33412d9fbc2172f5fa6553cadc9952d573eea"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259692141</id>
+                                    <title>Nach wochenlangen Fanprotesten: Investorendeal der DFL ist geplatzt</title>
+                                    <link href="https://www.focus.de/259692141"/>
+                                    <author>
+                                        <name>dpa</name>
+                                    </author>
+                                    <g:overline>Watzke spricht von …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259679658/imago1040686744h.jpg?im=Crop%3D%280%2C125%2C2598%2C1467%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=d401d722eb9641949d7994658b0df389b5d45718ae9c07a8dda1b760299869b3"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259690096</id>
+                                    <title>Bayern-Kracher! Tuchel-Aus zum Saisonende beschlossen</title>
+                                    <link href="https://www.focus.de/259690096"/>
+                                    <author>
+                                        <name>dpa</name>
+                                    </author>
+                                    <g:overline>Der Bayern-Hammer im …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259681851/thomas-tuchel.jpg?im=Crop%3D%280%2C260%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=6e3710edf150c0609ccf38d40255f2580b31d8d10fa400fa7d1f3785d8edf1f6"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
+                    <g:panel_title>Focus Online Rundown</g:panel_title>
+                    <title>Olympia 2024 in Paris: Alle Infos zu den Sommerspielen im Überblick</title>
+                    <author>
+                        <name>FOCUS online</name>
+                    </author>
+                    <link href="https://www.focus.de/259665764"/>
+                    <id>https://www-dev.focus.de/sport/olympische-sommerspiele/termine-sportarten-und-uebertragung-alle-informationen-zu-den-olympischen-sommerspielen-in-paris-2024_id_259665764.html</id>
+                    <published>2024-02-14T16:07:03.000Z</published>
+                    <updated>2024-02-22T14:33:30.000Z</updated>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259695047</id>
+                                    <title>DFB-Hammer! Toni Kroos verkündet Rückkehr zur Nationalmannschaft</title>
+                                    <link href="https://www.focus.de/259695047"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Verkündung bei Instagram</g:overline>
+                                    <media:content url="https://p6.focus.de/img/regional/bayern/id_259512300/deutschlands-toni-kroos-spielt-den-ball..jpg?im=Crop%3D%280%2C67%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=54eb595a3ef3e68e4219d4d907b33412d9fbc2172f5fa6553cadc9952d573eea"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259499229</id>
+                                    <title>Der Spielplan zur Fußball-EM 2024 in Deutschland im Überblick</title>
+                                    <link href="https://www.focus.de/259499229"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Heim-EM 2024</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259499292/olympiastadion-em-2024-fussball.jpg?im=Crop%3D%280%2C87%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1da31c3828c88690af4b78d77753006185c3c8c6a2c45fcd52e7fa6e027491aa"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259550762</id>
+                                    <title>Fußball-EM 2024: Das sind die zehn Stadien für die Heim-Europameisterschaft</title>
+                                    <link href="https://www.focus.de/259550762"/>
+                                    <author>
+                                        <name>FOCUS online</name>
+                                    </author>
+                                    <g:overline>Olympiastadion, Allianz …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/panorama/welt/id_204899482/die-uefa-hat-details-zum-kartenverkauf-fuer-die-fussball-em-2024-in-deutschland-bekanntgegeben..jpg?im=Crop%3D%280%2C104%2C2048%2C1156%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=75d0e28025561108d5790b1f03b4d456d58dbe03a064bae3332b9bd170a04a07"/>
+                                        </entry>
+                            </g:article_group>
+                </entry>
+            </feed>
