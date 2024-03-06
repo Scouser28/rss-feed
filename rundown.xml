@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"
     xmlns:media="http://search.yahoo.com/mrss/"
@@ -10,7 +11,7 @@
     <entry>
                     <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
                     <g:panel_title>Focus Online Rundown</g:panel_title>
-                    <title>Cora Schumacher kündigt …</title>
+                    <title>Cora Schumacher kündigt „wahre Geschichte“ über Pocher-Affäre an</title>
                     <author>
                         <name>FOCUS online</name>
                     </author>
@@ -22,7 +23,7 @@
                     <g:article_group role="RUNDOWN">
                         <entry>
                                     <id>aid_259696500</id>
-                                    <title>Baerbock-Flug verzögert: …</title>
+                                    <title>Baerbock-Flug verzögert: „Brasilianer legen uns irgendwie Steine …</title>
                                     <link href="https://www.focus.de/259696500"/>
                                     <author>
                                         <name>BUNTE.de</name>
@@ -30,9 +31,9 @@
                                     <g:overline>Pannen-Reihe</g:overline>
                                     <media:content url="https://p6.focus.de/img/fotos/id_259696506/g20-aussenministertreffen-in-rio-de-janeiro.jpg?im=Crop%3D%280%2C68%2C3643%2C2058%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=106d3446b89248dd0f8d6fb866e0310608e16f2ffbe6a37598bf456a16268b67"/>
                                         </entry>
-                            <entry>
+                        <entry>
                                     <id>aid_259695362</id>
-                                    <title>Schnitzel schon bei 30 Euro …</title>
+                                    <title>Schnitzel schon bei 30 Euro – „Die Leute kommen trotzdem“ </title>
                                     <link href="https://www.focus.de/259695362"/>
                                     <author>
                                         <name>BUNTE.de</name>
@@ -42,14 +43,14 @@
                                         </entry>
                             <entry>
                                     <id>aid_259696823</id>
-                                    <title>„Glauben Sie das wirklich?“ …</title>
+                                    <title>„Glauben Sie das wirklich?“ Aussage von Grünen-Mann macht Lanz …</title>
                                     <link href="https://www.focus.de/259696823"/>
                                     <author>
                                         <name>BUNTE.de</name>
                                     </author>
                                     <g:overline>Debatte um Bezahlkarte für …</g:overline>
                                     <media:content url="https://p6.focus.de/img/kultur/kino_tv/id_259696818/in-zusammenhang-mit-der-bezahlkarte-und-potenziellen-diskriminierungs-faktoren-redete-sich-gruenen-politiker-belit-onay-rechts-bei-markus-lanz-in-rage..jpg?im=Crop%3D%280%2C41%2C1360%2C768%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b39fd35a499aa67e81cf260013e003018d9c6f67f89927998b0f062cd7a4c054"/>
-                                        </entry>
-                            </g:article_group>
-                </entry>
-            </feed>
+                            </entry>
+                      </g:article_group>
+    </entry>
+</feed>
