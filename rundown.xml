@@ -5,52 +5,58 @@
     xmlns:g="http://schemas.google.com/pcn/2020">
     <title>News</title>
     <id>https://rss-dev.focus.de/sport/:related</id>
-    <updated>2024-02-23T08:19:06.000Z</updated>
+    <updated>2024-02-22T22:06:39.000Z</updated>
     <link rel="self" href="https://rss-dev.focus.de/sport/"/>
 
     <entry>
-                    <g:panel type="RUNDOWN">Fußball, Formel 1, Golf, Specials</g:panel>
-                    <g:panel_title>Focus Online Rundown</g:panel_title>
-                    <title>Cora Schumacher kündigt „wahre Geschichte“ über Pocher-Affäre an</title>
-                    <author>
-                        <name>FOCUS online</name>
-                    </author>
-                    <link href="https://www.focus.de/259697003"/>
-                    <id>https://www-dev.focus.de/kultur/vermischtes/die-wahre-geschichte-folgt-cora-schumacher-betitelt-oliver-pocher-als-luegner_id_259697003.html</id>
-                    <published>2024-02-23T08:19:06.000Z</published>
-                    <updated>2024-02-26T06:54:25.000Z</updated>
-                    
+                    <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+                    <g:panel_title>Nachrichten von heute</g:panel_title>
+
                     <g:article_group role="RUNDOWN">
                         <entry>
-                                    <id>aid_259696500</id>
-                                    <title>Baerbock-Flug verzögert: „Brasilianer legen uns irgendwie Steine …</title>
-                                    <link href="https://www.focus.de/259696500"/>
-                                    <author>
-                                        <name>BUNTE.de</name>
-                                    </author>
-                                    <g:overline>Pannen-Reihe</g:overline>
-                                    <media:content url="https://p6.focus.de/img/fotos/id_259696506/g20-aussenministertreffen-in-rio-de-janeiro.jpg?im=Crop%3D%280%2C68%2C3643%2C2058%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=106d3446b89248dd0f8d6fb866e0310608e16f2ffbe6a37598bf456a16268b67"/>
-                                        </entry>
+                            <title>Die Geschichte vom „Schwarzen Kreuz“ zeigt, was im Ahrtal …</title>
+                            <author>
+                                <name>Von FOCUS-online-Redakteur Frank Gerstenbe</name>
+                            </author>
+                            <link href="https://www.focus.de/259689445"/>
+                            <id>https://www-dev.focus.de/earth/report/ahrtal-serie-buerokratie-und-wiederaufbau-wie-eine-tartanbahn-und-eine-waermepumpe-den-irrsinn-des-buerokratismus-an-der-ahr-zeigen_id_259689445.html</id>
+                            <g:overline>„Aus der Katastrophe ein …</g:overline>
+                            <media:content url="https://p6.focus.de/img/fotos/id_259696499/annett-baumgartner-2-zum-schwarzen-kreuz-ohnesig-2-1-.png?im=Crop%3D%280%2C188%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=14a89c034250bfbbc7d36a1d963fe1ceccb464c855d0b7c154b0e9c6ba605c27"/>
+                                </entry>
+                    </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+                    <g:panel_title>Nachrichten von heute</g:panel_title>
+
+                    <g:article_group role="RUNDOWN">
                         <entry>
-                                    <id>aid_259695362</id>
-                                    <title>Schnitzel schon bei 30 Euro – „Die Leute kommen trotzdem“ </title>
-                                    <link href="https://www.focus.de/259695362"/>
-                                    <author>
-                                        <name>BUNTE.de</name>
-                                    </author>
-                                    <g:overline>Mehrwertsteueranpassung</g:overline>
-                                    <media:content url="https://p6.focus.de/img/fotos/id_259617419/imago0256437117h.jpg?im=Crop%3D%280%2C295%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1978922899b6114d2ec1042dd8762ce7e57e8f02f74b05edc8fb8cf7d83c234a"/>
-                                        </entry>
-                            <entry>
-                                    <id>aid_259696823</id>
-                                    <title>„Glauben Sie das wirklich?“ Aussage von Grünen-Mann macht Lanz …</title>
-                                    <link href="https://www.focus.de/259696823"/>
-                                    <author>
-                                        <name>BUNTE.de</name>
-                                    </author>
-                                    <g:overline>Debatte um Bezahlkarte für …</g:overline>
-                                    <media:content url="https://p6.focus.de/img/kultur/kino_tv/id_259696818/in-zusammenhang-mit-der-bezahlkarte-und-potenziellen-diskriminierungs-faktoren-redete-sich-gruenen-politiker-belit-onay-rechts-bei-markus-lanz-in-rage..jpg?im=Crop%3D%280%2C41%2C1360%2C768%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b39fd35a499aa67e81cf260013e003018d9c6f67f89927998b0f062cd7a4c054"/>
-                            </entry>
-                      </g:article_group>
-    </entry>
-</feed>
+                            <title>Liebe Regierung, wie wär’s mal mit einer ganz irren Idee im …</title>
+                            <author>
+                                <name>Von Focus Magazin-Jan Fleischhauer</name>
+                            </author>
+                            <link href="https://www.focus.de/259694666"/>
+                            <id>https://www-dev.focus.de/politik/meinung/focus-kolumne-von-jan-fleischhauer-wie-waer-s-mal-mit-einer-total-verrueckten-idee-im-kampf-gegen-die-afd_id_259694666.html</id>
+                            <g:overline>FOCUS-Kolumne von Jan …</g:overline>
+                            <media:content url="https://p6.focus.de/img/fotos/id_259697116/fleischhauer-weidel.png?im=Crop%3D%28603%2C0%2C3471%2C1963%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=0f20c0491464b98ee3871ad16c359a3445b998c97b4a4aa6480fe0e150cb0441"/>
+                                </entry>
+                    </g:article_group>
+                </entry>
+            <entry>
+                    <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+                    <g:panel_title>Nachrichten von heute</g:panel_title>
+
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                            <title>Herztransplantation mit 48 Jahren: „Es war nie ein fremdes Herz …</title>
+                            <author>
+                                <name>Von FOCUS-online-Redakteurin Corinna Schne</name>
+                            </author>
+                            <link href="https://www.focus.de/259692629"/>
+                            <id>https://www-dev.focus.de/gesundheit/news/betroffener-im-gespraech-mit-focus-online-herztransplantation-mit-49-jahren-es-war-nie-ein-fremdes-herz-fuer-mich_id_259692629.html</id>
+                            <g:overline>Betroffener erzählt</g:overline>
+                            <media:content url="https://p6.focus.de/img/fotos/id_259696376/gettyimages-1726072110.jpg?im=Crop%3D%280%2C175%2C3465%2C1957%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=dc1185f32d1b44b9f2888a58e0cbd2de853e3cc6a004175543bc520be025575f"/>
+                                </entry>
+                    </g:article_group>
+                </entry>
+            </feed>
