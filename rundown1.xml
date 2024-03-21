@@ -1,0 +1,53 @@
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:g="http://schemas.google.com/pcn/2020">
+    <title>News</title>
+    <id>https://rss-dev.focus.de/sport/:related</id>
+    <updated>2024-02-22T22:06:39.000Z</updated>
+    <link rel="self" href="https://rss-dev.focus.de/sport/"/>
+
+    <entry>
+        <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+        <g:panel_title>Nachrichten von heute</g:panel_title>
+
+        <title>Die Geschichte vom „Schwarzen Kreuz“ zeigt, was im Ahrtal …</title>
+        <author>
+            <name>Von FOCUS-online-Redakteur Frank Gerstenbe</name>
+        </author>
+        <link href="https://www.focus.de/259689445"/>
+        <id>https://www-dev.focus.de/earth/report/ahrtal-serie-buerokratie-und-wiederaufbau-wie-eine-tartanbahn-und-eine-waermepumpe-den-irrsinn-des-buerokratismus-an-der-ahr-zeigen_id_259689445.html</id>
+        <g:overline>„Aus der Katastrophe ein …</g:overline>
+        
+        <media:content url="https://p6.focus.de/img/fotos/id_259696499/annett-baumgartner-2-zum-schwarzen-kreuz-ohnesig-2-1-.png?im=Crop%3D%280%2C188%2C3464%2C1955%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=14a89c034250bfbbc7d36a1d963fe1ceccb464c855d0b7c154b0e9c6ba605c27"/>
+    </entry>
+    <entry>
+        <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+        <g:panel_title>Nachrichten von heute</g:panel_title>
+
+        <title>Liebe Regierung, wie wär’s mal mit einer ganz irren Idee im …</title>
+        <author>
+            <name>Von Focus Magazin-Jan Fleischhauer</name>
+        </author>
+        <link href="https://www.focus.de/259694666"/>
+        <id>https://www-dev.focus.de/politik/meinung/focus-kolumne-von-jan-fleischhauer-wie-waer-s-mal-mit-einer-total-verrueckten-idee-im-kampf-gegen-die-afd_id_259694666.html</id>
+        <g:overline>FOCUS-Kolumne von Jan …</g:overline>
+        
+        <media:content url="https://p6.focus.de/img/fotos/id_259697116/fleischhauer-weidel.png?im=Crop%3D%28603%2C0%2C3471%2C1963%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=0f20c0491464b98ee3871ad16c359a3445b998c97b4a4aa6480fe0e150cb0441"/>
+    </entry>
+    <entry>
+        <g:panel type="RUNDOWN">FOCUS Online - Redaktionsempfehlungen</g:panel>
+        <g:panel_title>Nachrichten von heute</g:panel_title>
+
+        <title>Herztransplantation mit 48 Jahren: „Es war nie ein fremdes Herz …</title>
+        <author>
+            <name>Von FOCUS-online-Redakteurin Corinna Schne</name>
+        </author>
+        <link href="https://www.focus.de/259692629"/>
+        <id>https://www-dev.focus.de/gesundheit/news/betroffener-im-gespraech-mit-focus-online-herztransplantation-mit-49-jahren-es-war-nie-ein-fremdes-herz-fuer-mich_id_259692629.html</id>
+        <g:overline>Betroffener erzählt</g:overline>
+        
+        <media:content url="https://p6.focus.de/img/fotos/id_259696376/gettyimages-1726072110.jpg?im=Crop%3D%280%2C175%2C3465%2C1957%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=dc1185f32d1b44b9f2888a58e0cbd2de853e3cc6a004175543bc520be025575f"/>
+    </entry>
+</feed>
