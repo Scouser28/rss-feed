@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+    xmlns:media="http://search.yahoo.com/mrss/"
+    xmlns:g="http://schemas.google.com/pcn/2020">
+    <title>News</title>
+    <id>https://rss-dev.focus.de/sport/:related</id>
+    <updated>2024-02-23T08:19:06.000Z</updated>
+    <link rel="self" href="https://rss-dev.focus.de/sport/"/>
+    <entry>
+                    
+                    <g:article_group role="RUNDOWN">
+                        <entry>
+                                    <id>aid_259696500</id>
+                                    <title>Baerbock-Flug verzögert: „Brasilianer legen uns irgendwie Steine …</title>
+                                    <link href="https://www.focus.de/259696500"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Pannen-Reihe</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259696506/g20-aussenministertreffen-in-rio-de-janeiro.jpg?im=Crop%3D%280%2C68%2C3643%2C2058%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=106d3446b89248dd0f8d6fb866e0310608e16f2ffbe6a37598bf456a16268b67"/>
+                                        </entry>
+                        <entry>
+                                    <id>aid_259695362</id>
+                                    <title>Schnitzel schon bei 30 Euro – „Die Leute kommen trotzdem“ </title>
+                                    <link href="https://www.focus.de/259695362"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Mehrwertsteueranpassung</g:overline>
+                                    <media:content url="https://p6.focus.de/img/fotos/id_259617419/imago0256437117h.jpg?im=Crop%3D%280%2C295%2C3464%2C1956%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=1978922899b6114d2ec1042dd8762ce7e57e8f02f74b05edc8fb8cf7d83c234a"/>
+                                        </entry>
+                            <entry>
+                                    <id>aid_259696823</id>
+                                    <title>„Glauben Sie das wirklich?“ Aussage von Grünen-Mann macht Lanz …</title>
+                                    <link href="https://www.focus.de/259696823"/>
+                                    <author>
+                                        <name>BUNTE.de</name>
+                                    </author>
+                                    <g:overline>Debatte um Bezahlkarte für …</g:overline>
+                                    <media:content url="https://p6.focus.de/img/kultur/kino_tv/id_259696818/in-zusammenhang-mit-der-bezahlkarte-und-potenziellen-diskriminierungs-faktoren-redete-sich-gruenen-politiker-belit-onay-rechts-bei-markus-lanz-in-rage..jpg?im=Crop%3D%280%2C41%2C1360%2C768%29%3BResize%3D%281200%29&amp;impolicy=perceptual&amp;quality=mediumHigh&amp;hash=b39fd35a499aa67e81cf260013e003018d9c6f67f89927998b0f062cd7a4c054"/>
+                            </entry>
+                      </g:article_group>
+    </entry>
+</feed>
